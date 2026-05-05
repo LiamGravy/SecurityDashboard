@@ -24,4 +24,5 @@ def Load_data():
 def main():
     df = Load_data()
     st.title("Security Dashboard")
-    
+
+main()
